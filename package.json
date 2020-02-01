@@ -65,7 +65,8 @@
     "prismjs": "^1.15.0",
     "strip-indent": "^3.0.0",
     "tinydate": "^1.0.0",
-    "tweezer.js": "^1.4.0"
+    "tweezer.js": "^1.4.0",
+    "live-server": "^1.2.1"
   },
   "devDependencies": {
     "autoprefixer-stylus": "^1.0.0",
